@@ -1,1 +1,0 @@
-# pands-weekly-tasks
